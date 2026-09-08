@@ -62,4 +62,4 @@ Provide a modular Windows PowerShell 5.1 script that collects the agreed health 
 
 - Development and documentation work may occur on macOS, but Windows-specific commands, registry locations, and Defender data must execute on a Windows 11 Audited Endpoint.
 - The initial real-world validation takes place after the repository is cloned to the Windows 11 laptop.
-- Local Git is initialized for source and planning-document tracking. No remote issue tracker is configured, so the ready-for-agent tickets are stored locally.
+- GitHub Issues are the canonical location for issue status, assignment, discussion, and completion. The implementation ticket is [Issue #1](https://github.com/bekindtomammals0/automated-endpoint-audit-script/issues/1), and Windows validation is [Issue #2](https://github.com/bekindtomammals0/automated-endpoint-audit-script/issues/2), which is blocked by Issue #1. Local ticket copies are retained under `.scratch/` as archived planning records.

@@ -108,5 +108,7 @@ The macOS environment is suitable for editing, reviewing, Git tracking, and docu
 ## Planning documents
 
 - [Feature specification](docs/specs/windows-endpoint-health-report.md)
-- [Ticket 01: Build the Endpoint Health Report](.scratch/windows-endpoint-health-report/issues/01-build-endpoint-health-report.md)
-- [Ticket 02: Validate on Windows 11](.scratch/windows-endpoint-health-report/issues/02-validate-on-windows-11.md)
+- [GitHub Issue #1: Build the Endpoint Health Report](https://github.com/bekindtomammals0/automated-endpoint-audit-script/issues/1)
+- [GitHub Issue #2: Validate on Windows 11](https://github.com/bekindtomammals0/automated-endpoint-audit-script/issues/2)
+
+GitHub Issues are the canonical location for issue status, assignment, discussion, and completion. The local ticket copies under `.scratch/` are retained as archived planning records.
